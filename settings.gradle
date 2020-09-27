@@ -1,0 +1,3 @@
+include ':VoiceRecordLib'
+include ':app'
+rootProject.name = "VoiceRecorder"
